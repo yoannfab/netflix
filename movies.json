@@ -1,0 +1,67 @@
+[
+    {
+       "title":"Wednesday",
+       "description":"Wednesday is a Netflix series based on the character of Wednesday Addams from the popular Addams Family franchise. The series follows Wednesday as a student at Nevermore Academy, where she attempts to solve a supernatural mystery while navigating teenage life and grappling with her unusual family background. The show features a diverse cast and a mix of genres, including horror, comedy, and drama, and is sure to be a must-watch for fans of the Addams Family and those looking for a fresh take on the coming-of-age story",
+       "videoUrl":"https://res.cloudinary.com/ddaitbtjt/video/upload/v1681066690/Wednesday_Addams_Being_The_Ultimate_Mood_Wednesday_Netflix_yxlf9c.mp4",
+       "thumbnailUrl":"https://res.cloudinary.com/ddaitbtjt/image/upload/v1681067311/baqqwl8ee7smckqxnlra.jpg",
+       "genre":"Comedy",
+       "duration":"5 minutes"
+    },
+    {
+       "title":"The Dark Knight",
+       "description":"The Dark Knight is a 2008 superhero film directed by Christopher Nolan and starring Christian Bale as Bruce Wayne/Batman. The film follows Batman as he attempts to stop the Joker (Heath Ledger) from wreaking havoc on Gotham City. Along the way, Batman must also confront his own inner demons and the limitations of his vigilantism, while the Joker tests the moral boundaries of the city's law enforcement and citizenry. With intense action sequences, complex characters, and a thought-provoking exploration of themes such as justice, sacrifice, and the nature of heroism, \"The Dark Knight\" is widely regarded as one of the greatest superhero films ever made.",
+       "videoUrl":"https://res.cloudinary.com/ddaitbtjt/video/upload/v1681066663/Bank_Heist_Joker_The_Dark_Knight_IMAX_qzszyt.mp4",
+       "thumbnailUrl":"https://res.cloudinary.com/ddaitbtjt/image/upload/v1681067311/miunevlcnkwpbnu7kubh.jpg",
+       "genre":"Action",
+       "duration":"5 minutes"
+    },
+    {
+       "title":"Peaky Blinders",
+       "description":"\"Peaky Blinders\" is a British television series that falls under the genre of historical crime drama. The show is set in post-World War I Birmingham, England, and follows the story of the Shelby crime family, who are known for their illegal activities such as gambling, protection rackets, and smuggling. The show blends elements of historical accuracy with fictional storylines, and features a strong cast, including Cillian Murphy as the lead character, Thomas Shelby. With its gripping plotlines, stunning cinematography, and engaging characters, \"Peaky Blinders\" has become a fan favorite and has earned critical acclaim since its premiere in 2013.",
+       "videoUrl":"https://res.cloudinary.com/ddaitbtjt/video/upload/v1681066643/Peaky_Blinders_Luca_Changretta_meets_Thomas_Shelby_Adrien_Brody_Cillian_Murphy_ann56a.mp4",
+       "thumbnailUrl":"https://res.cloudinary.com/ddaitbtjt/image/upload/v1681067311/rlbm8hpf12ncvsfudqnb.jpg",
+       "genre":"Action",
+       "duration":"6 minutes"
+    },
+    {
+       "title":"Elephant's Dream",
+       "description":"Friends Proog and Emo journey inside the folds of a seemingly infinite Machine, exploring the dark and twisted complex of wires, gears, and cogs, until a moment of conflict negates all their assumptions.",
+       "videoUrl":"http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ElephantsDream.mp4",
+       "thumbnailUrl":"https://download.blender.org/ED/cover.jpg",
+       "genre":"Sci-Fi",
+       "duration":"15 minutes"
+    },
+    {
+        "title":"Super Mario Bros",
+        "description":"A plumber named Mario travels an underground labyrinth with his brother, Luigi, trying to rescue a captured princess. Film adaptation of the famous video game.",
+        "videoUrl":"https://res.cloudinary.com/ddaitbtjt/video/upload/v1681066663/The_Super_Mario_Bros._Movie_First_4_Minutes_Exclusive_Sneak_Peek_up6uob.mp4",
+        "thumbnailUrl":"https://res.cloudinary.com/ddaitbtjt/image/upload/v1681067311/gznqquf7zkcfwgnjdnqy.jpg",
+        "genre":"Adventure",
+        "duration": "5 minutes"
+    },
+    {
+        "title":"Tears of Steel",
+        "description":"In an apocalyptic future, a group of soldiers and scientists takes refuge in Amsterdam to try to stop an army of robots that threatens the planet.",
+        "videoUrl":"http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/TearsOfSteel.mp4",
+        "thumbnailUrl":"https://mango.blender.org/wp-content/uploads/2013/05/01_thom_celia_bridge.jpg",
+        "genre":"Action",
+        "duration":"12 minutes"
+     },
+     {
+      "title":"Breaking Bad",
+      "description":"Walter White is a high school chemistry teacher who lives with his disabled son and pregnant wife in Albuquerque, New Mexico. When he is diagnosed with terminal lung cancer, everything falls apart. He decides to set up a meth lab to support his family by partnering with one of his former students, Jesse Pinkman, who has become a small-time drug dealer.",
+      "videoUrl":"https://res.cloudinary.com/ddaitbtjt/video/upload/v1681567322/Walter_White_Meets_Gustavo_Fring_-_Breaking_Bad_kcksoe.mp4",
+      "thumbnailUrl":"https://res.cloudinary.com/ddaitbtjt/image/upload/v1681568463/breaking_pfol66.jpg",
+      "genre":"Thriller",
+      "duration":"5 minutes"
+   },
+   {
+      "title":"The Office",
+      "description":"The daily life of a group of office workers at a paper mill in Pennsylvania. Michael, the regional manager, thinks he's the funniest guy in the office. Little does he know that his employees only tolerate him because he signs the checks. Striving to appear cool and well-liked, Michael is actually perceived as pathetic...",
+      "videoUrl":"https://res.cloudinary.com/ddaitbtjt/video/upload/v1681567373/Fire_Drill_-_The_Office_US_jq9xol.mp4",
+      "thumbnailUrl":"https://res.cloudinary.com/ddaitbtjt/image/upload/v1681568464/office_pmcggv.jpg",
+      "genre":"Comedy",
+      "duration":"5 minutes"
+   }
+ ]
+ 
